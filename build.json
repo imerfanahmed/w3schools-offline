@@ -2,9 +2,9 @@
     "android": {
         "release": {
             "keystore": "w3schools.keystore",
-            "storePassword": "ramzanali19",
+            "storePassword": "",
             "alias": "w3schools",
-            "password" : "ramzanali19",
+            "password" : "",
             "keystoreType": ""
         }
     }
