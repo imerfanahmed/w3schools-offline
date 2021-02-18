@@ -7,23 +7,8 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-actionsheet": {
-      "PACKAGE_NAME": "w3schools.magi"
-    },
-    "cordova-plugin-inappbrowser": {
-      "PACKAGE_NAME": "w3schools.magi"
-    },
-    "cordova-plugin-network-information": {
-      "PACKAGE_NAME": "w3schools.magi"
-    },
-    "cordova-plugin-spinner-dialog": {
-      "PACKAGE_NAME": "w3schools.magi"
-    },
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "w3schools.magi"
-    },
-    "cordova-plugin-wkwebview-engine": {
-      "PACKAGE_NAME": "w3schools.magi"
+      "PACKAGE_NAME": "w3schools.freondevs"
     }
   },
   "dependent_plugins": {}
